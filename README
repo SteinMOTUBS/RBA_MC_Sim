@@ -1,0 +1,14 @@
+"""
+
+Hello and welcome to my GitHub project RBA_MC_Sim.
+My name is Matthias Oliver Stein is this is a part of my current research/ Ph.D-Thesis at the TU Braunschweig.
+
+The project is about the measurement uncertainty of ligand binding assays.
+Here, in particular, I investigate the effect of specific factors, like the design space or the experimental design,
+on the measurement uncertainty by a monte carlo studie. The overall goal is to find setups the minimize the error.
+
+All related python scripts, most of the figures and additional informations will be uploaded here
+
+For details send me an E-mail: matthias.stein@tu-braunschweig.de
+
+"""
